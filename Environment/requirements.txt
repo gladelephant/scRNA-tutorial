@@ -67,6 +67,7 @@ dm-tree==0.1.6
 docopt==0.6.2
 docutils==0.17.1
 dopamine-rl==1.0.5
+doubletdetection==3.0
 dunamai==1.5.5
 earthengine-api==0.1.266
 easydict==1.9
@@ -186,6 +187,7 @@ librosa==0.8.0
 lightgbm==2.2.3
 llvmlite==0.34.0
 lmdb==0.99
+louvain==0.7.0
 LunarCalendar==0.0.9
 lxml==4.2.6
 Markdown==3.3.4
